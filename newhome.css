@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.teamImg{
+    width: 100%;
+    border-radius: 34px;
+    height: 100%;
+}
+
+.team-para{
+    line-height: 31px;
+    opacity: 0.7;
+}
+
+#team{
+    width: 79%;
+}
+
+.Fonts{
+    font-family: 'Signika Negative', sans-serif;
+    font-style: normal;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
